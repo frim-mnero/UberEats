@@ -36,11 +36,6 @@
 .main-list {
   display: flex;
   flex-wrap: wrap;
-<<<<<<< HEAD
-}
-=======
-  margin-top: 16px;
-  gap: 16px;
 }
 .main-list-item-infogroup {
   display: flex;
@@ -62,4 +57,3 @@
   font-family: 'Roboto', sans-serif;
 }
 
->>>>>>> 3aa36ee2887d5c7cf394597492a831c27fc83d1a
