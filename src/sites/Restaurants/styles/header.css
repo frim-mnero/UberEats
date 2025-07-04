@@ -18,6 +18,7 @@
   display: flex;
   gap: 16px;
 }
+
 .header-socials-enter{
   border: 1px solid #E0E0E0;
   padding: 14px 20px;
